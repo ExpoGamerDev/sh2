@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/sirenhead_vr.unity
+    guid: 8ed27bfa376cd3c48987aab9efbb23ef
+  - enabled: 1
     path: Assets/sirenhead.unity
     guid: b925279efde607a47b382682cfc6d1e8
   m_configObjects:
